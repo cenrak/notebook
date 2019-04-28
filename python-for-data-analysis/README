@@ -1,3 +1,0 @@
-Jupyter Notebooks for `Python for Data Analysis` book, 2nd edition.
-
-Conda environment has been exported using `conda list -e > environment.txt` and can be imported using `conda create env -f environment.txt -n pfda-py3` 
